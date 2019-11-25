@@ -403,7 +403,7 @@ print(f"""\nThank you for using the password generator app.
 # In[ ]:
 
 
-test = """hug,RSy9nfjP>aKlq5e(7a4cwzh>rlfu""".replace("", " ")
+test = f"""{new_password}""".replace("", " ")
 test = test.split()
 test
 
