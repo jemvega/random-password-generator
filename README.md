@@ -5,15 +5,15 @@ I was interested in creating a password generator that allowed permutations with
 
 ## Features of the Password Generator App
 The password generator is a program that will generate a random password for the user. The user will be asked to input how many upper case letters, special characters, and numbers/digits he or she wants in a password. The minimum requirements for a password are that the user's password must be between 8 and 94 characters long and have at least one of the following:
-        * An upper case letter, 
-        * A lower case letter,
-        * A number, 
-        * A special character.
+* An upper case letter, 
+* A lower case letter,
+* A number, 
+* A special character.
 
 Features of this password generator include:
-        * The password will be generated using ASCII printable characters.
-        * The generated password is a permutation with repetition allowed.
-		* Each password is generated randomly. 
+* The password will be generated using ASCII printable characters.
+* The generated password is a permutation with repetition allowed.
+* Each password is generated randomly. 
 
 ### Prerequisites
 This app was created using Jupyter Notebook for Python.
