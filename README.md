@@ -1,19 +1,19 @@
 # Password Generator App
 
 ## Background
-I was motivated to create this app out of curiosity and for fun. I was interested in creating a password generator that allowed permutations with repetitions of characters, creating a password that could be generated from user inputs, and checking whether the password that was generated fit the minimum requirements and the user defined criteria.
+I was interested in creating a password generator that allowed permutations with repetitions of characters, creating a password that could be generated from user inputs, and checking whether the password that was generated fit the minimum requirements and the user defined criteria.
 
 ## Features of the Password Generator App
-The password generator is a program that will generate a random password for the user. The user will be allowed to input how many upper case letters, special characters, and numbers/digits, he or she wants in a password. The minimum requirements for a password are that the user's password must be between 8 and 94 characters long and have at least one of the following:
-        -An upper case letter, 
-        -A lower case letter,
-        -A number, 
-        -A special character.
+The password generator is a program that will generate a random password for the user. The user will be asked to input how many upper case letters, special characters, and numbers/digits he or she wants in a password. The minimum requirements for a password are that the user's password must be between 8 and 94 characters long and have at least one of the following:
+        *An upper case letter, 
+        *A lower case letter,
+        *A number, 
+        *A special character.
 
 Features of this password generator include:
-        -The password will be generated using ASCII printable characters.
-        -The generated password is a permutation with repetition allowed.
-		-Each password is generated randomly. 
+        *The password will be generated using ASCII printable characters.
+        *The generated password is a permutation with repetition allowed.
+		*Each password is generated randomly. 
 
 ### Prerequisites
 This app was created using Jupyter Notebook for Python.
@@ -22,7 +22,7 @@ This app was created using Jupyter Notebook for Python.
 This app requires Python. Simply run the code in an interactive development environment or Python interpreter.
 
 ## Tests
-As of right now, I have only been manually testing the app. I created a few functions that would check whether the password fit the minimum requirements and the user defined criteria. I would like to create integration test checks and unit test checks. 
+I have only been manually testing the app. I created a few functions that would check whether the password fit the minimum requirements and the user defined criteria. I would like to create integration test checks and unit test checks. 
 
 ## Known Issues
 There are no known issues with this app. 
@@ -35,9 +35,9 @@ Here are some features I would like to add in the future:
 
 ## Built With
 
-[Python] (https://www.python.org/downloads/) programming language
-[Anaconda Navigator] (https://docs.anaconda.com/anaconda/navigator/) GUI
-[Notepad++] (https://notepad-plus-plus.org/) for README.md and LICENSE.txt
+[Python](https://www.python.org/downloads/) programming language
+[Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/) GUI
+[Notepad++](https://notepad-plus-plus.org/) for README.md and LICENSE.txt
 
 ## Contributing
 
