@@ -35,9 +35,9 @@ Here are some features I would like to add in the future:
 
 ## Built With
 
-[Python](https://www.python.org/downloads/) programming language
-[Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/) GUI
-[Notepad++](https://notepad-plus-plus.org/) for README.md and LICENSE.txt
+^ [Python](https://www.python.org/downloads/) programming language
+^ [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/) GUI
+^ [Notepad++](https://notepad-plus-plus.org/) for README.md and LICENSE.txt
 
 ## Contributing
 
